@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/steviecoaster/steviecoaster.blog
 
 go 1.21.6
 
